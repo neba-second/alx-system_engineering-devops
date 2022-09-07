@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 neba neba 4096 Sep  7 06:38 .
+drwxr-xr-x 6 neba neba 4096 Sep  5 08:05 ..
+-rwxr-xr-x 1 neba neba   32 Sep  5 08:11 0-hello_world
+-rwxr-xr-x 1 neba neba   28 Sep  5 08:22 1-confused_smiley
+-rwxr-xr-x 1 neba neba   28 Sep  5 08:24 2-hellofile
+-rwxr-xr-x 1 neba neba   39 Sep  5 08:28 3-twofiles
+-rwxr-xr-x 1 neba neba   29 Sep  5 08:29 4-lastlines
+-rwxr-xr-x 1 neba neba   29 Sep  5 08:31 5-firstlines
+-rwxr-xr-x 1 neba neba   36 Sep  5 08:54 6-third_line
+-rw-r--r-- 1 neba neba   57 Sep  7 06:36 7-file
+-rwxr-xr-x 1 neba neba   36 Sep  7 06:38 8-cwd_state
+-rw-r--r-- 1 neba neba   56 Sep  5 08:50 iacta
+-rw-r--r-- 1 neba neba    0 Sep  7 06:38 ls_cwd_content
+-rw-r--r-- 1 neba neba   37 Sep  5 08:07 README.md
